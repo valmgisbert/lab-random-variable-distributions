@@ -2,7 +2,7 @@
 
 # Lab | Random variable distributions
 
-Refer to the `numericals.csv` dataset that you previously saved.
+Refer to the `numerical.csv` dataset that you previously saved.
 
 ### Instructions
 
